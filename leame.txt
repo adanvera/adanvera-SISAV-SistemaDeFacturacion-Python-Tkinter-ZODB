@@ -1,0 +1,55 @@
+SISTEMA DE FACTURACION SISAV
+Autor: Gustavo Adán Vera Villalba
+CIN: 4.231.937
+
+
+Requerimientos del Sistema:
+
+Los Requerimientos para correr SISAV se debe de tener instalado Pyhton3 y ZPDB
+
+___________________________________________________________________
+Para instalar ZOBD, ejecutar la siguiente linea desde la terminal:
+  # pip install ZODB
+___________________________________________________________________
+
+Para la instalacion de Pyhton3
+
+La mayoría de las distribuciones incluyen alguna versión de Python 3 en sus repositorios y
+pasta con ejecutar el gestor de paquetes e instalarlo. Estos son los 
+comandos para instalar Python 3 desde algunas de las 
+distribuciones más populares.
+
+
+Centos / Redhat /Fedora
+
+# yum install python3
+
+Debian 9
+
+# apt install python3
+
+Debian 8 y anteriores
+
+# apt-get install python3
+
+Ubuntu 16.04 y superiores
+
+$ sudo apt install python3
+
+Ubuntu 14.04
+
+$ sudo apt-get install python3
+
+OpenSUSE
+
+# zypper in python3
+
+
+
+
+Para ejecutar el Sistema
+___________________________________________________________________________
+    Para inicializar el sistema, se debe ejecutar el script app.py
+    Desde la consola linux ingrese el siguiente comando: "python3 app.py"
+___________________________________________________________________________
+ A continuación el usuario lleva a cabo las diferentes funcionaliades del sistema
